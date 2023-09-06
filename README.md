@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADITH SAGAR GOWDA</h1>
-<h3 align="center">A Pre-Final Year Student👨‍💻 From Vellore Institute of Technology,Chennai | Machine Learning Enthusiast</h3>
+<h3 align="center">A Pre-Final Year Student👨‍💻 From Vellore Institute of Technology,Chennai | Machine Learning Enthusiast | Interested in Problem solving</h3>
 
 - 🌱 I’m currently learning **Machine Learning and MERN-Stack**
 
