@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITH SAGAR GOWDA</h1>
-<h3 align="center">A Pre-Final Year Student👨‍💻 From Vellore Institute of Technology, Chennai | Machine Learning Enthusiast | MERN Stack Developer.</h3>
+<h3 align="center">A Pre-Final Year Student👨‍💻 From Vellore Institute of Technology, Chennai | Deep Learning Enthusiast | MERN Stack Developer.</h3>
 
-- 💬 Ask me about **Machine Learning and React Js**
+- 💬 Ask me about **Deep Learning and React Js**
 
 - 📫 How to reach me **adithgowda06@gmail.com**
 
