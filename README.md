@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADITH SAGAR GOWDA</h1>
-<h3 align="center">A Pre-Final Year Student👨‍💻 From Vellore Institute of Technology, Chennai | Deep Learning Enthusiast | MERN Stack Developer.</h3>
+<h3 align="center">A Final Year Student👨‍💻 From Vellore Institute of Technology, Chennai | Deep Learning Enthusiast | MERN Stack Developer.</h3>
 
 - 💬 Ask me about **Deep Learning and React Js**
 
